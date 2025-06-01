@@ -1,10 +1,10 @@
 [
   {
-    "id": "m1",
-    "name": "Mac & Cheese",
-    "price": "8.99",
-    "description": "Creamy cheddar cheese mixed with perfectly cooked macaroni, topped with crispy breadcrumbs. A classic comfort food.",
-    "image": "images/mac-and-cheese.jpg"
+    "id": "m15",
+    "name": "Chocolate Brownie",
+    "price": "5.99",
+    "description": "A rich and fudgy brownie, topped with a scoop of vanilla ice cream and chocolate sauce.",
+    "image": "images/chocolate-brownie.jpg"
   },
   {
     "id": "m2",
@@ -26,13 +26,6 @@
     "price": "10.99",
     "description": "Al dente spaghetti with a creamy sauce made from egg yolk, pecorino cheese, pancetta, and pepper.",
     "image": "images/spaghetti-carbonara.jpg"
-  },
-  {
-    "id": "m5",
-    "name": "Veggie Burger",
-    "price": "9.99",
-    "description": "A juicy veggie patty served on a whole grain bun with lettuce, tomato, and a tangy sauce.",
-    "image": "images/veggie-burger.jpg"
   },
   {
     "id": "m6",
@@ -96,13 +89,6 @@
     "price": "9.99",
     "description": "Three soft tortillas filled with seasoned beef, fresh salsa, cheese, and sour cream.",
     "image": "images/beef-tacos.jpg"
-  },
-  {
-    "id": "m15",
-    "name": "Chocolate Brownie",
-    "price": "5.99",
-    "description": "A rich and fudgy brownie, topped with a scoop of vanilla ice cream and chocolate sauce.",
-    "image": "images/chocolate-brownie.jpg"
   },
   {
     "id": "m16",
